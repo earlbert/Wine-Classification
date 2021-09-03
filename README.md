@@ -1,1 +1,1 @@
-This is an undergraduate project in one of my course i have taken in my college. This is project is about classifying a wine if it is a red wine or a white wine based on its chemical characteristics using machine learning technique such as stack ensembling. 
+This is an undergraduate project in one of my courses i have taken in my college. This project is about classifying a wine if it is a red wine or a white wine based on its chemical characteristics using machine learning technique such as stack ensembling. 
